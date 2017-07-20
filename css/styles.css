@@ -1,0 +1,35 @@
+body{
+
+	font-size:1rem;
+	font-family: Segoe UI;
+	color:#292b2c;
+
+
+}		
+
+.accordionItem a{
+	margin: 0; 
+	font-size: 1.1em; 
+	padding: 0.4em;
+	color: blue;
+	text-decoration: none;
+}			
+
+.accordionItem a: hover{
+	cursor: pointer; 
+}
+
+.accordionItem p { 
+
+	margin: 0; 
+	padding: 1em 0.4em; 
+	background-color: gray; 
+	border-bottom: 1px solid #66d; }
+
+.accordionItem 	a { 
+		color: #000; background-color: #88f; 
+	}
+
+.accordionItem p {
+	display:none;
+}
